@@ -5,8 +5,8 @@ from time import sleep
 import chequered
 import outcome
 
-cid = "ec66324e91d84b23b4a7566c2cc83305"     # PASTE YOUR CLIENT ID HERE
-secret = "efed210842504d69aec9091d04489cef"   # PASTE YOUR CLIENT SECRET HERE
+cid = ""     # PASTE YOUR CLIENT ID HERE
+secret = ""   # PASTE YOUR CLIENT SECRET HERE
 
 # #
 # print("Processing Playlists\n")
